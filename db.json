@@ -1,0 +1,70 @@
+{
+  "projects": [
+    {
+      "name": "Projeto_Atualizado",
+      "budget": "7000",
+      "categories": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 200,
+      "services": [
+        {
+          "name": "novo projeto",
+          "cost": "100",
+          "description": "isso serve",
+          "id": "c2e55195-1b4e-4f81-b710-1341239ec638"
+        },
+        {
+          "name": "novo projeto 1",
+          "cost": "100",
+          "description": "isso serve",
+          "id": "917c942d-a8ba-4ac0-8215-2d4470aba497"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Cores",
+      "budget": "900",
+      "categories": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 600,
+      "services": [
+        {
+          "name": "Contratar Dev PHP",
+          "cost": "500",
+          "description": "Vai criar Função de envio de e-mails",
+          "id": "44eec1a6-70d0-4a6b-b2be-a01e541765e4"
+        },
+        {
+          "name": "Novo serviço",
+          "cost": "100",
+          "description": "teste",
+          "id": "24a14733-3939-43b2-801f-7a9422e48df3"
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
